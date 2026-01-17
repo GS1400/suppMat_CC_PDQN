@@ -1,8 +1,7 @@
 This supplemental document provides additional results and detailed algorithmic developments supporting the main paper, titled 
 
-An efficient penalty decomposition algorithm for minimization over sparse symmetric sets by Ahmad Mousavi, Morteza Kimiaei,
-
-Saman Babaie–Kafaki, Vyacheslav Kungurtsev.
+An efficient penalty decomposition algorithm for minimization over sparse symmetric sets by 
+Ahmad Mousavi, Morteza Kimiaei, Saman Babaie–Kafaki, Vyacheslav Kungurtsev.
 
 The material is organized as follows.
 
